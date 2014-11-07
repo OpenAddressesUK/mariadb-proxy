@@ -17,5 +17,3 @@ suites:
         server_root_password: 'iloverandompasswords'
         server_repl_password: 'iloverandompasswords'
         server_debian_password: 'iloverandompasswords'
-        install:
-          version: '5.5'
