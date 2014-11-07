@@ -1,5 +1,6 @@
-name "rackspace-mysql-proxy"
-version "0.1.2"
+name 'mariadb-proxy'
+version '0.1.2'
 
-depends "mysql"
-depends "database"
+depends 'build-essential'
+depends 'mariadb'
+depends 'database'

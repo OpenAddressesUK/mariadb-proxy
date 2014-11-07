@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-ruby "2.1.2"
-#ruby-gemset=rackspace-mysql-proxy
+ruby "2.1.4"
+#ruby-gemset=mariadb-proxy
 
 gem "test-kitchen"
 gem 'kitchen-vagrant'

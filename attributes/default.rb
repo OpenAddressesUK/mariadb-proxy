@@ -1,3 +1,3 @@
-default['rackspace-mysql-proxy']['database'] = 'dogebase'
-default['rackspace-mysql-proxy']['user'] = 'doge'
-default['rackspace-mysql-proxy']['password'] = 'suchpassword'
+default['mariadb-proxy']['database'] = 'dogebase'
+default['mariadb-proxy']['user'] = 'doge'
+default['mariadb-proxy']['password'] = 'suchpassword'
